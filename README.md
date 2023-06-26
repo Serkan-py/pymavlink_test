@@ -1,2 +1,2 @@
 # pymavlink_test
-Bu repository pymavlink komutlarını test etmek ve bu sonuçları paylaşmak amacıyla kurulmuştur.
+This repository has been established to test pymavlink commands and share the results obtained from these tests.
