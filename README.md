@@ -1,6 +1,6 @@
 # pymavlink_test
-EN
+EN -   
 This repository has been established to test pymavlink commands and share the results obtained from these tests.
 
-TR
+TR -   
 Bu depo pymavlink komutlarını test etmek ve bu testlerden elde edilen sonuçları paylaşmak için kurulmuştur.
